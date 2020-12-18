@@ -3,6 +3,7 @@
 | Full Name | GitHub nickname | notes |
 | --------- | --------------- | ----- |
 | Gianni Bombelli | bombo82 |  teacher |
+| Noemi Stabilini | noemistabilini | student |
 | Mariacristina Accettura | Mcri | student |
 | Thewin Kritsakon | TheKritsakon | student |
 | Giacomo Cazzaniga | giacomocazzaniga | student |
