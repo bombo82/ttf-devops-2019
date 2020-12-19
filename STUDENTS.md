@@ -14,3 +14,4 @@
 | Marco Scalfi | mscalfi | student |
 | Luca Pettenella | lpettenella | student |
 | Alessio Salvagno |AlessioSalvagno|student|
+| Paolo Di Gallo | paolodiga | student |
