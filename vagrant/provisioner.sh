@@ -22,7 +22,7 @@ install_and_configure_docker() {
 
 install_and_configure_docker-compose() {
     echo "### Install and configure docker-compose"
-    apk add py3-pip python3-dev libffi-dev openssl-dev gcc libc-dev make
+    apk add py3-pip python3-dev libffi-dev libressl-dev gcc libc-dev make musl-dev cargo
     pip install --upgrade pip
     pip install docker-compose
 }
