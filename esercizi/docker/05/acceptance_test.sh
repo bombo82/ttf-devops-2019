@@ -24,7 +24,7 @@ should_execute_factor_with_external_value() {
 
 should_fail_to_execute_the_external_command() {
     local readonly DESCRIPTION='should not execute the external command'
-    local readonly EXPECTED="BusyBox v1.32.1 () multi-call binary.
+    local readonly EXPECTED="BusyBox v1.31.1 () multi-call binary.
 
 Usage: factor [NUMBER]...
 
