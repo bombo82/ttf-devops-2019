@@ -14,7 +14,7 @@
 `docker container ps`
 ![test](images/usage-test.png)
 
-### Test / dev server
+### Produzione
 - esecuzione:
 `docker-compose -f docker-compose-infrastructure.yml -f docker-compose-application.yml up`
 - verifica dei componenti e delle porte esposte:
